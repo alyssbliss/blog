@@ -1,7 +1,5 @@
 ---
 published: true
----
----
 layout: post
 title: Introducing Me
 description: Learn more! 
