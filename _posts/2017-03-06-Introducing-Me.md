@@ -2,9 +2,17 @@
 published: true
 layout: post
 title: Introducing Me
+description: Learn more!
+image: assets/images/maxxxxy2015-08-04 20.58.49.jpg
+---
+---
+published: true
+layout: post
+title: Introducing Me
 description: Learn more! 
 image: assets/images/maxxxxy2015-08-04 20.58.49.jpg 
 ---
+
 
 
 # Introducing Me! 
