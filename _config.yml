@@ -1,0 +1,36 @@
+# Site settings
+title: Alyssa's Blog 
+subtitle: Living In My Shoes
+email: steinho1@umbc.edu
+description: A creative blog designed to provide my personal perspective on significant issues and presentations of my original thoughts. 
+baseurl: "/blog"  # the subpath of your site, e.g. /blog
+url: "alyssasteinhorn.me" # the base hostname & protocol for your site
+author:Alyssa Steinhorn
+street_address: 
+city: 
+state: 
+zip_code: 
+country: United States of America
+phone: 
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 100
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url:
+instagram_url: 
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
