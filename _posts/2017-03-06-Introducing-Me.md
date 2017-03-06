@@ -1,6 +1,12 @@
 ---
 published: false
 ---
+---
+layout: post
+title: Introducing Me 
+description: Learn more about Alyssa Steinhorn! :) 
+image: assets/images/maxxxxy2015-08-04 20.58.49.jpg
+---
 # Introducing Me! 
 
 **Hey, my name is _Alyssa_!**
