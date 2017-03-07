@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Welcome To Alyssa's Blog'
+landing-title: "Welcome To Alyssa's Blog"
 description: null
 image: null
 author: Alyssa Steinhorn
