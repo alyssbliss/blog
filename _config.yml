@@ -5,13 +5,8 @@ email: steinho1@umbc.edu
 description: A creative blog designed to provide my personal perspective on significant issues and presentations of my original thoughts. 
 baseurl: "/blog"  # the subpath of your site, e.g. /blog
 url: "alyssasteinhorn.me" # the base hostname & protocol for your site
-author:Alyssa Steinhorn
-street_address: 
-city: 
-state: 
-zip_code: 
-country: United States of America
-phone: 
+author: Alyssa Steinhorn
+
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
